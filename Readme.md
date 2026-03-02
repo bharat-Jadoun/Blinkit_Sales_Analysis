@@ -162,10 +162,6 @@ Understand customer satisfaction trends
 
 Support data-driven decision-making
 
-📸 Dashboard Preview
-
-![Blinkit Dashboard](Blinkit_dashboard.png)
-👨‍💻 Author
 
 Bharat Jadoun
 Data Analyst | Power BI Developer
